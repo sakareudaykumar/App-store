@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.imageItem {
+  height: 100px;
+  width: 70px;
+}
+.li {
+  list-style: none;
+  background-color: #ffffff;
+  height: 200px;
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  margin: 10px;
+}

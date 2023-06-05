@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.tabname {
+  list-style-type: none;
+}
+.tabButton {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.addBottom {
+  border-bottom: 2px solid #2563eb;
+  color: #2563eb;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
